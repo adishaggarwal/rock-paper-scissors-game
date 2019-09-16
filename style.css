@@ -106,3 +106,10 @@ body{
         font-size: 80px;
     }
 }
+@media(max-width:200px){
+    .choices{
+        font-size: 40px;
+    }
+}
+
+

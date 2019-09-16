@@ -98,20 +98,20 @@ body{
 
   @media(max-width:300px){
     .choice{
-        font-size: 40px;
+        font-size: 4em;
     }
 }
 
 @media(max-width:500px){
     .choice{
-        font-size: 80px;
+        font-size: 6em;
     }
 }
 
 
 @media(max-width:700px){
     .choice{
-        font-size: 110px;
+        font-size: 8em;
     }
 }
 

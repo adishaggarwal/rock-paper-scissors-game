@@ -95,21 +95,25 @@ body{
     color: var(--lose-color);
   }
 
-@media(max-width:700px){
-    .choices{
-        font-size: 110px;
+
+  @media(max-width:300px){
+    .choice{
+        font-size: 40px;
     }
 }
 
 @media(max-width:500px){
-    .choices{
+    .choice{
         font-size: 80px;
     }
 }
-@media(max-width:200px){
-    .choices{
-        font-size: 40px;
+
+
+@media(max-width:700px){
+    .choice{
+        font-size: 110px;
     }
 }
+
 
 
